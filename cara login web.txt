@@ -1,0 +1,3 @@
+Untuk login user dengan username = admin dan password = 12345678
+Pada database terlihat acak pada password karena kita enkripsi dengan md5
+Untuk mengganti password bisa dengan edit pada database di tabel login dan pilih md5
